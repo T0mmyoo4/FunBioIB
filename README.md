@@ -1,4 +1,12 @@
 # Fundamentos de Biodiseño - Biomecánica
+## Integrantes
+* PALMA ARAUJO GLORIA CECILIA
+* ALEJANDRA
+* ARANGO ESCALANTE NICOLAS THOMAS
+* ABANTO TRUJILLO ADRIANA TAYLI 
+* TELLO OCAÑA MIGUEL ANGEL
+* GORBEÑA GALARZA RODRIGO JOAQUIN
+
 
 ## Buscamos poder devolver utilidad a la mano, recuperando una mayor independencia
 
