@@ -24,3 +24,27 @@
 
 ![UserPersona](https://github.com/T0mmyoo4/FunBioIB/blob/main/UserPersona.jpg)
 
+### Problemática:
+
+###### Falta de prótesis funcionales para personas que presentan una amputación funcional transmetacarpiana entre 30 a 40 años de edad con una ocupación laboral que implica un cierto esfuerzo físico (moderado o ligero), y que desean reinsertarse laboralmente.
+##### ¿Cómo podríamos devolver funcionalidad a las manos de las personas con amputaciones trans metacarpianas entre 20 a 30 años que desean una re-inserción laboral?
+
+#### Bibliografía:
+###### Camacho-Conchucos HT. Pacientes amputados por accidentes de trabajo: características y años acumulados de vida productiva potencial perdidos. An Fac Med (Lima, Perú ) [Internet]. 2010 [consultado el 27 de agosto de 2023];71(4):271–5. Disponible en:http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1025-55832010000400011
+
+###### Varela Bohórquez AF, Charles D, Guzmán N, Gutiérrez AI, Lola C, Carpio A, et al. Ministro de Trabajo y Promoción del Empleo. Anuario Estadístico Sectorial 2022.  [Internet]. Gob.pe. [Consultado el 28 de agosto de 2023]. Disponible en: https://cdn.www.gob.pe/uploads/document/file/4930317/Anuario%202022.pdf?v=1691004485
+
+###### Rebaza A. Instituto nacional de rehabilitación. Indicadores hospitalarios anual 2021.  [Internet]. Gob.pe. [Consultado el 28 de agosto de 2023]. Disponible en: https://cdn.www.gob.pe/uploads/document/file/4118091/Ind_Hosp-21.pdf.pdf?v=1676323497
+
+###### López Sullaez LC, Estrada Ruíz R. Repercusión Ocupacional de las Amputaciones Traumáticas en Dedos de la Mano por Accidente de Trabajo. Medicina y seguridad del trabajo (Madrid) [Internet]. 2009 [Consultado el 29 de agosto de 2023];55(217):41–8. Disponible en: https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0465-546X2009000400005
+
+###### Estadístico B, Mayo M. Ministro de Trabajo y Promoción del Empleo. Notificaciones de accidentes de trabajo, incidentes peligrosos y enfermedades ocupacionales [Internet]. Gob.pe. [citado el 30 de agosto de 2023]. Disponible en: https://cdn.www.gob.pe/uploads/document/file/4812348/SAT_MAYO_2023_opt.pdf?v=1688751163
+
+###### Elaboración propia a partir de la Encuesta Económica Anual - EEA 2008-2015 y la Encuesta Nacional de Hogares - ENAHO. 2008.
+
+###### Perú, estadísticas de las personas con alguna discapacidad [Internet]. Instituto Nacional de Estadística e Informática. 2020 Disponible en:
+https://www.congreso.gob.pe/Docs/comisiones2020/InclusionSocialDiscapacidad/files/presentaciones_ppt/poblaci%C3%B3n_con_alguna_discapacidad_20_julio_de_2020.pdf
+
+###### El 52,7% de la población que tiene alguna discapacidad es adulta mayor [Internet]. Noticias - Instituto Nacional de Estadística e Informática - Plataforma del Estado Peruano. Disponible en: https://www.gob.pe/institucion/inei/noticias/676448-el-52-7-de-la-poblacion-que-tiene-alguna-discapacidad-es-adulta-mayor
+
+###### Investigadores de la PUCP fabrican prótesis de mano para mejorar calidad de vida de personas con discapacidad [Internet]. Noticias - Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica - Plataforma del Estado Peruano. Disponible en: https://www.gob.pe/institucion/concytec/noticias/341401-investigadores-de-la-pucp-fabrican-protesis-de-mano-para-mejorar-calidad-de-vida-de-personas-con-discapacidad
