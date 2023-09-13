@@ -1,11 +1,11 @@
 # Fundamentos de Biodiseño - Biomecánica
-## Integrantes
-* PALMA ARAUJO GLORIA CECILIA
-* GAMARRA LEYVA ALEJANDRA IVONNE
-* ARANGO ESCALANTE NICOLAS THOMAS
-* ABANTO TRUJILLO ADRIANA TAYLI 
-* TELLO OCAÑA MIGUEL ANGEL
-* GORBEÑA GALARZA RODRIGO JOAQUIN
+## Integrantes - Roles
+* PALMA ARAUJO GLORIA CECILIA - Coordinadora general, modelado 3D
+* GAMARRA LEYVA ALEJANDRA IVONNE - 
+* ARANGO ESCALANTE NICOLAS THOMAS - Programación, Electrónica, manejo del GitHub
+* ABANTO TRUJILLO ADRIANA TAYLI - Coordinadora de Programación
+* TELLO OCAÑA MIGUEL ANGEL - Modelado 3D
+* GORBEÑA GALARZA RODRIGO JOAQUIN - Coordinador diseño 3D
 
 
 ## Buscamos poder devolver utilidad a la mano, recuperando una mayor independencia
