@@ -26,8 +26,8 @@
 
 ### Problemática:
 
-###### Falta de prótesis funcionales para personas que presentan una amputación funcional transmetacarpiana entre 30 a 40 años de edad con una ocupación laboral que implica un cierto esfuerzo físico (moderado o ligero), y que desean reinsertarse laboralmente.
-##### ¿Cómo podríamos devolver funcionalidad a las manos de las personas con amputaciones trans metacarpianas entre 20 a 30 años que desean una re-inserción laboral?
+###### Falta de prótesis funcionales para personas que presentan una amputación funcional transmetacarpiana entre 30 a 40 años de edad con una ocupación laboral que implica un cierto esfuerzo físico (moderado o ligero), y que desean reinsertarse laboralmente. El costo de la prótesis es muy elevado para ellos.
+##### ¿Cómo podríamos mejorar el agarre pinza de las personas con amputaciones trans metacarpianas entre 20 a 30 años en Lima- Perú que desean obtener una cierta fuerza de agarre pinza?
 
 #### Bibliografía:
 ###### Camacho-Conchucos HT. Pacientes amputados por accidentes de trabajo: características y años acumulados de vida productiva potencial perdidos. An Fac Med (Lima, Perú ) [Internet]. 2010 [consultado el 27 de agosto de 2023];71(4):271–5. Disponible en:http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1025-55832010000400011
