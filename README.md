@@ -8,7 +8,7 @@
 * GORBEÑA GALARZA RODRIGO JOAQUIN - Coordinador diseño 3D
 
 
-## Buscamos poder devolver utilidad a la mano, recuperando una mayor independencia
+## Buscamos poder devolver utilidad mecánica a la mano
 
 ###### Dentro del caso clinico estudiado decidimos enfocarnos en la amputación transmetacarpiana del pulgar, en específico por la necesidad del usuario de recuperar su EMPLEO, lo cual también implica su propia sustentabilidad.
 
