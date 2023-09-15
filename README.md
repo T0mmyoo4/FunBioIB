@@ -17,12 +17,7 @@
 
 #### En contexto
 
-###### Sobre las amputaciones en el Perú, se encontró que, en una revisión de 1290 casos de pacientes con alguna amputación, 108 fueron por accidentes laborales dando un 8,4% del total. Además, se señalan las zonas más afectadas, siendo la más frecuente en la zona debajo de la rodilla abarcando 27,3% de afectados del total de personas censadas. 
-Por otro lado, en el rubro de manufactura fue en donde ocurrieron más accidentes con un 37,9% de casos. Por último, los hombres fueron los más afectados con un 98,2% y un 40,7% se encontraron en el rango de 21 a 30 años. (1)
-
-Según cifras del Ministerio de Trabajo se reportan 40 casos al mes de lesión de mano por causas laborales, cifra que representa el 30% del mercado laboral, puesto que más del 70% se encuentra en la informalidad. (2) 
-
-Las lesiones digitales son extremadamente frecuentes y cuando estas involucran al pulgar pueden comprometer importantemente la función de la mano, tanto así que su amputación afecta hasta un 50% la función global de la mano y disminuye la fuerza de agarre hasta en un 20%. (3). En cuanto al tipo de agarre tenemos los siguientes: 
+###### Sobre las amputaciones en el Perú, se encontró que, en una revisión de 1290 casos de pacientes con alguna amputación, 108 fueron por accidentes laborales dando un 8,4% del total. Además, se señalan las zonas más afectadas, siendo la más frecuente en la zona debajo de la rodilla abarcando 27,3% de afectados del total de personas censadas. Por otro lado, en el rubro de manufactura fue en donde ocurrieron más accidentes con un 37,9% de casos. Por último, los hombres fueron los más afectados con un 98,2% y un 40,7% se encontraron en el rango de 21 a 30 años. (1) Según cifras del Ministerio de Trabajo se reportan 40 casos al mes de lesión de mano por causas laborales, cifra que representa el 30% del mercado laboral, puesto que más del 70% se encuentra en la informalidad. (2) Las lesiones digitales son extremadamente frecuentes y cuando estas involucran al pulgar pueden comprometer importantemente la función de la mano, tanto así que su amputación afecta hasta un 50% la función global de la mano y disminuye la fuerza de agarre hasta en un 20%. (3). En cuanto al tipo de agarre tenemos los siguientes: 
 
 #### Tabla 1: Descripción de agarres de la clasificación utilizada  
 | Tipo de Agarre | Descripción |
