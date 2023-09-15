@@ -37,13 +37,10 @@ Las lesiones digitales son extremadamente frecuentes y cuando estas involucran a
 
 ###### La tabla 1 nos muestra los tipos de agarre que se dan a nivel de la mano donde se puede ver que en todos el uso del pulgar es indispensable.
 
-# colocar figura 1
+###### Figura 1: Frecuencias del uso diario de cada tipo de agarre totales
+![Figura1](https://github.com/T0mmyoo4/FunBioIB/blob/main/Figura1.jpg)
 
 ###### La figura 1 muestra los porcentajes de tiempo de forma global y para cada agarre. Casi todos los agarres se utilizan con ambas manos aunque, en algunos casos, el porcentaje cambia considerablemente. Considerando a una persona diestra  el agarre de pinza especial es un agarre que requiere más destreza por lo que se utiliza fundamentalmente con la mano derecha, siendo este el de mayor frecuencia (4). Entonces una amputación tiene un impacto significativo en la capacidad de una persona, si sucede principalmente en el pulgar generando una mano disfuncional. 
-
-### User Persona
-
-![UserPersona](https://github.com/T0mmyoo4/FunBioIB/blob/main/UserPersona.jpg)
 
 ### Estado del arte científico
 
