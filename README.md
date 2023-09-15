@@ -1,11 +1,12 @@
 # Fundamentos de Biodiseño - Biomecánica
 ## Integrantes - Roles
+![FotoGrupal](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/FotoGrupal.jpeg)
+* ARANGO ESCALANTE NICOLAS THOMAS - Coordinador de electrónica, Programación, manejo del GitHub
+*  ABANTO TRUJILLO ADRIANA TAYLI - Coordinadora de Programación, electrónica
+* GORBEÑA GALARZA RODRIGO JOAQUIN - Coordinador diseño 3D y Manufactura
 * PALMA ARAUJO GLORIA CECILIA - Coordinadora general, modelado 2D
-* GAMARRA LEYVA ALEJANDRA IVONNE - Coordinadora de Investigación y Redacción, Electrónica
-* ARANGO ESCALANTE NICOLAS THOMAS - Programación, manejo del GitHub
-* ABANTO TRUJILLO ADRIANA TAYLI - Coordinadora de Programación, electrónica
 * TELLO OCAÑA MIGUEL ANGEL - Modelado e Impresión 3D
-* GORBEÑA GALARZA RODRIGO JOAQUIN - Coordinador diseño 3D
+* GAMARRA LEYVA ALEJANDRA IVONNE - Coordinadora de Investigación y Redacción, Electrónica
 
 ## Buscamos poder devolver utilidad mecánica a la mano
 
