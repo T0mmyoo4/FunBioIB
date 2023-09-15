@@ -70,6 +70,13 @@
 | US8343234B2 | Prótesis de mano compuesta por 2 dispositivos de conducción | Se trata de una prótesis capaz de reemplazar 3 dedos de la mano (dedo índice, dedo medio y pulgar). Se caracteriza por estar compuesta por un chasis y 2 accionamientos capaces de permitirle al usuario realizar movimientos relativamente complejos. El primer accionamiento se ubica en la zona del chasis en el centro de la mano, del cual se generan la mayor parte de movimientos en torno a un eje de giro conectado al resto de dedos. Así pues, el segundo accionamiento se encuentra en el extremo que une a la prótesis separada para cada dedo, permitiendo que los dedos realicen movimientos en torno a un segundo eje, que sumado al primer accionamiento, el paciente es capaz de tener movimientos más fluidos y precisos, así como complejos. Por otro lado, también presenta un transmisor de fuerza, en la zona del segundo accionamiento que se encarga de retransmitir las fuerzas de tensión hacia toda la mano, permitiendo al usuario deshacerse de cargas innecesarias y viceversa. (17) | ![PAT2](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/PAT2.jpg) | 
 |?| Wearable | El wearable inventado por Enzo Romero, egresado de Ingeniería Mecatrónica PUCP, es un caso en el que la tecnología apunta mucho más lejos a beneficio del usuario colocado en el antebrazo como un brazalete, logra replicar la sensación del tacto en una persona que utiliza una prótesis de extremidad superior cuando el usuario presiona el objeto con los dedos de la  prótesis. (18) | ![EC3](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/PAT3.jpg) |
 
+### Lista de Requerimientos:
+![LRF](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/LRF.jpg) 
+![LRF](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/LRNF.jpg) 
+
+### Proppuesta de Solución:
+#### Desarrollo de una prótesis de pulgar para personas con amputación transmetacarpiana enfocada en la fuerza del agarre pinza de bajo costo impresa en 3D. 
+
 #### Bibliografía:
 
 ###### 1 - Camacho-Conchucos HT. Pacientes amputados por accidentes de trabajo: características y años acumulados de vida productiva potencial perdidos. An Fac Med (Lima, Perú ) [Internet]. 2010 [citado el 27 de agosto de 2023];71(4):271–5. Disponible en:ht<span>tp://ww<span>w.<span>sci<span>elo.org.pe/s<span>cielo.php?script=sci_arttext&pid=S1025-55832010000400011
@@ -84,4 +91,9 @@
 ###### 10 - O’Brien L, Cho E, Khara A, Lavranos J, Lommerse L, Chen C. 3D-printed custom-designed prostheses for partial hand amputation: Mechanical challenges still exist. J Hand Ther [Internet]. 2021;34(4):539–42. Disponible en: ht<span>tps://<span>ww<span>w.s<span>cienced<span>irect.com/science/article<span>/pii/S0894113020300867
 ###### 11 - Ricardo GS, María JVR. Prótesis impresa en 3D para la rehabilitación de amputaciones digitales: presentación de un diseño mecánico. Revista Colombiana de Cirugía Plástica y Reconstructiva [Internet]. 2019 [citado el 15 de septiembre de 2023];25(2). Disponible en: ht<span>tps://<span>ww<span>w.c<span>ip<span>la<span>stic<span>a.com/ojs/index.php/rccp/article<span>/view/113
 ###### 12 - Cutipa-Puma DR, Coaguila-Quispe CG, Yanyachi PR. A low-cost robotic hand prosthesis with apparent haptic sense controlled by electroencephalographic signals. HardwareX [Internet]. 2023 [citado el 15 de septiembre de 2023];14(e00439):e00439. Disponible en: ht<span>tp://dx.doi.org/10.1016/j.ohx.2023.e00439
-
+###### 13 - College-park.com. [citado el 14 de septiembre de 2023]. Disponible en: ht<span>tps://www<span>.college-p<span>ark.com/titan<span>-flex
+###### 14 - College-park.com. [citado el 14 de septiembre de 2023]. Disponible en: http<span>s://w<span>ww.college-p<span>ark.com/m-thumb<span>-black
+###### 15 - Point Thumb [Internet]. Pointdesignsllc.com. [citado el 14 de septiembre de 2023]. Disponible en: htt<span>ps://w<span>ww.pointdesignsl<span>lc.com/pr<span>oducts/thumb-pr<span>osthesis
+###### 16 - WIPO - search international and national patent collections [Internet]. Wipo.int. [citado el 14 de septiembre de 2023]. Disponible en: https:<span>//pa<span>tentscope.wi<span>po.int/sea<span>rch/<span>en/de<span>tail.jsf?docId=US320885759&_cid=P11-LM<span>88HA-24444-1
+###### 17 - Puchhammer G. Hand prosthesis comprising two drive devices. US Patent. 8343234, 2013. [citado el 14 de septiembre de 2023]. Disponible en: ht<span>tps://patents<span>.google.com/patent<span>/US83432<span>34B2/en?q=(<span>finger+prosthesis)&oq=finger+prosthesis
+###### 18 - Design of a non-invasive haptic feedback device for transradial myoelectric upper limb prosthesis [Internet]. IEEE ANDESCON. [citado el 14 de septiembre de 2023]. Disponible en: htt<span>ps://ie<span>eexplore-ieee-org.ezproxybib.<span>pucp.edu.pe/docu<span>ment/7836230
