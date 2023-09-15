@@ -53,6 +53,16 @@
 ###### Las personas que presentan una amputación funcional transmetacarpiana entre 20 a 30 años de edad con una ocupación laboral que implica un cierto esfuerzo físico no logran tener fuerza suficiente para agarrar. (Nos centraremos en el agarre pinza)
 ##### ¿Cómo podríamos mejorar el agarre pinza de las personas con amputaciones trans metacarpianas entre 20 a 30 años en Lima- Perú que desean obtener una cierta fuerza de agarre pinza?
 
+### Estado del Arte comercial
+#### Tabla 3: Productos disponibles en el mercado  
+| Nombre | Descripción | Imagen |
+| ----- | ---- | ---- |
+| Dedo TITAN flex | Ligero y resistente hecho de titanio con funcionamiento mecánico que puede soportar hasta cargas de 68 kilos, cuesta como 2900 dólares americanos sin considerar costos de impuesto ni envío. La distribución de carga sobre la prótesis recae sobre un único socket colocado en la palma del paciente. El dedo no puede ser expuesto a sustancias corrosivas como agua salada. La flexión de la prótesis no está controlada por la propia mano en la que está colocada. (13)| ![EC1](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/EC1.jpg) |
+| Titan thumb / M-thumb | Prótesis específica para amputaciones a nivel transmetacarpiana de los pulgares, su soporte cubre a toda la palma de la mano para la distribución del peso, pero la flexión de esta no es dependiente al movimiento de la mano que sufrió la amputación. La prótesis es de mayor utilidad en situaciones donde se requiere trabajo de carga pesada con poca movilidad. 
+Por otro lado, si se necesitase dexteridad, una alternativa es M-Thumb que tiene un mayor rango de movimiento y resistencia regulable (variar la intensidad del agarre) para la comodidad del usuario; a diferencia del Titan Flex, el dispositivo no se puede emplear en casos de carga pesada. (14)
+ | ![EC2](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/EC2.jpg) | 
+| Point Thumb | Se trata de una prótesis del dedo pulgar diseñada para ser lo más liviana posible, pero a la vez resistente, con la ventaja de poder realizar 11 posiciones únicas de flexión. Así pues, este producto está diseñado para personas que requieran de un dispositivo con alta durabilidad que sea capaz de realizar distintos movimientos característicos del pulgar, por lo que la misma está hecha de titanio y acero inoxidable. Cabe destacar que tiene una capacidad de carga de 68 kg y pesa alrededor de unos 28 a 38 g. (15) | ![EC3](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/EC3.jpg) |
+
 #### Bibliografía:
 
 ###### 1 - Camacho-Conchucos HT. Pacientes amputados por accidentes de trabajo: características y años acumulados de vida productiva potencial perdidos. An Fac Med (Lima, Perú ) [Internet]. 2010 [citado el 27 de agosto de 2023];71(4):271–5. Disponible en:ht<span>tp://ww<span>w.<span>sci<span>elo.org.pe/s<span>cielo.php?script=sci_arttext&pid=S1025-55832010000400011
