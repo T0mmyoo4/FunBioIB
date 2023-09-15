@@ -24,7 +24,7 @@ Según cifras del Ministerio de Trabajo se reportan 40 casos al mes de lesión d
 
 Las lesiones digitales son extremadamente frecuentes y cuando estas involucran al pulgar pueden comprometer importantemente la función de la mano, tanto así que su amputación afecta hasta un 50% la función global de la mano y disminuye la fuerza de agarre hasta en un 20%. (3). En cuanto al tipo de agarre tenemos los siguientes: 
 
-#### Tabla 1. Descripción de agarres de la clasificación utilizada  
+#### Tabla 1: Descripción de agarres de la clasificación utilizada  
 | Tipo de Agarre | Descripción |
 | ----- | ---- |
 | Agarre cilíndrico | Interviene la palma. El pulgar está en oposición directa a los dedos (en abducción o posición neutra | 
@@ -43,6 +43,13 @@ Las lesiones digitales son extremadamente frecuentes y cuando estas involucran a
 ###### La figura 1 muestra los porcentajes de tiempo de forma global y para cada agarre. Casi todos los agarres se utilizan con ambas manos aunque, en algunos casos, el porcentaje cambia considerablemente. Considerando a una persona diestra  el agarre de pinza especial es un agarre que requiere más destreza por lo que se utiliza fundamentalmente con la mano derecha, siendo este el de mayor frecuencia (4). Entonces una amputación tiene un impacto significativo en la capacidad de una persona, si sucede principalmente en el pulgar generando una mano disfuncional. 
 
 ### Estado del arte científico
+
+#### Tabla 2: Estudios  
+| Estudios | Descripción | Imagen |
+| ----- | ---- | ---- |
+| Prótesis diseñadas a medida impresas en 3D para la amputación parcial de la mano: todavía existen desafíos mecánicos | Modelo A: diseño de apertura voluntaria con posicionamiento típico del cable en el dedo dorsal. Modelo B: diseño de cierre voluntario con cables para dedos radiales ubicados lateralmente y dedos cubitales medialmente. Ambos dispositivos impresos en 3D tenían muy poca fuerza de agarre y pellizco, pero una destreza comparable a la de la prótesis mioeléctrica. El participante estaba más satisfecho con el peso y los atributos térmicos de los dispositivos impresos en 3D. (10) | ![EA1](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/EA1.jpg) |
+| Prótesis impresa en 3D para la rehabilitación de amputaciones digitales: presentación de un diseño mecánico | Este diseño fue adaptado para las medidas específicas del paciente e impreso en la Fundación Materialización 3D quienes realizaron como modificación más importante el cambio en la palanca, cambiándola de la muñeca a un dispositivo ortésico ajustado a nivel del dorso de la mano y sujeto por dos velcros en forma circular hacia la palma. Esto genera mayor estabilidad y disminuye la fuerza y tensión en la palanca al realizar la flexión. Para la impresión de esta prótesis el gasto fue de 12.72 USD. (11) | ![EA2](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/EA2.jpg) | 
+| Una prótesis de mano robótica de bajo coste con aparente sentido háptico controlado por señales electroencefalográficas | Este tipo de prótesis es una alternativa viable a las que utilizan señales electromiográficas (EMG). Estas a su vez cuentan con un sistema de retroalimentación háptica, que simula la función de los mecanorreceptores de la piel, proporcionando al usuario una sensación de tacto al utilizar la prótesis. Por otro lado, el uso de servomotores y controladores de fácil acceso en el mercado y además la impresión 3D permite bajar los costos para que sean accesibles para los usuarios. Por último, los resultados de la prótesis arrojan un 86.67 % de tasa de éxito en promedio de realizar las tareas proporcionadas.(12) | ![EA3](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/EA3.jpg) |
 
 ###### Además,la mayoría de las veces los costos de las prótesis disponibles en el mercado superan el presupuesto de los pacientes y sus familias (6). En el mercado peruano se pueden adquirir prótesis mecánicas, eléctricas, mioeléctricas y cosméticas. Una prótesis eléctrica tiene costos alrededor de 53 000 soles, mientras que una mioeléctrica puede llegar a los 200 000. En el caso de las prótesis mecánicas, solo el dispositivo terminal (mano) de estas están costando aproximadamente S/3,800 y la fabricación del encaje protésico para que se adapte al tipo de amputación del paciente es un costo aparte. 
 
