@@ -72,8 +72,8 @@
 |16650357| Dispositivo háptico portátil con actuadores intercambiables para prótesis de extremidad | El wearable inventado por Enzo Romero, egresado de Ingeniería Mecatrónica PUCP, es un caso en el que la tecnología apunta mucho más lejos a beneficio del usuario colocado en el antebrazo como un brazalete, logra replicar la sensación del tacto en una persona que utiliza una prótesis de extremidad superior cuando el usuario presiona el objeto con los dedos de la  prótesis. (18) | ![EC3](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/PAT3.jpg) |
 
 ### Lista de Requerimientos:
-![LRF](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/LRF.jpg) 
-![LRF](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/LRNF.jpg) 
+![LRF](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/LRFU.jpg) 
+![LRF](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/LRNFU.jpg) 
 
 ### Propuesta de Solución:
 #### Desarrollo de una prótesis de pulgar para personas con amputación transmetacarpiana enfocada en la fuerza del agarre pinza de bajo costo impresa en 3D. 
