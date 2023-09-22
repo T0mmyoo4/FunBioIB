@@ -75,7 +75,7 @@
 ![LRF](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/LRF.jpg) 
 ![LRF](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/LRNF.jpg) 
 
-### Proppuesta de Solución:
+### Propuesta de Solución:
 #### Desarrollo de una prótesis de pulgar para personas con amputación transmetacarpiana enfocada en la fuerza del agarre pinza de bajo costo impresa en 3D. 
 
 #### Bibliografía:
