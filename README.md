@@ -78,6 +78,22 @@
 ### Propuesta de Solución:
 #### Desarrollo de una prótesis de pulgar para personas con amputación transmetacarpiana enfocada en la fuerza del agarre pinza de bajo costo impresa en 3D. 
 
+#### Caja Negra
+![CajaNegra](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/CajaNegra.jpeg) 
+
+#### Esquema de Funciones
+![EsquemaFunciones](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/EsquemaFunciones.jpg) 
+![EsquaFunDesc](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/EsquaFunDesc.jpg) 
+
+#### Matriza Morfológica
+![FlechitasPDS](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/FlechitasPDS.png) 
+
+#### Tabla de Valoraciones
+![TablaVal](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/TablaVal.jpg) 
+
+#### Conclusión
+###### Por el puntaje obtenido en la tabla de valoración, con un total de 28 puntos el concepto solución 3 es el más viable.
+
 #### Bibliografía:
 
 ###### 1 - Camacho-Conchucos HT. Pacientes amputados por accidentes de trabajo: características y años acumulados de vida productiva potencial perdidos. An Fac Med (Lima, Perú ) [Internet]. 2010 [citado el 27 de agosto de 2023];71(4):271–5. Disponible en:ht<span>tp://ww<span>w.<span>sci<span>elo.org.pe/s<span>cielo.php?script=sci_arttext&pid=S1025-55832010000400011
