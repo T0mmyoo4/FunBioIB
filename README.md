@@ -91,8 +91,8 @@
 #### Tabla de Valoraciones
 ![TablaVal](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/TablaVal.jpg) 
 
-#### Conclusión
-###### Por el puntaje obtenido en la tabla de valoración, con un total de 28 puntos el concepto solución 3 es el más viable.
+### Conclusión
+#### Por el puntaje obtenido en la tabla de valoración, con un total de 28 puntos el concepto solución 3 es el más viable.
 
 #### Bibliografía:
 
