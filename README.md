@@ -92,6 +92,26 @@
 ### Conclusión
 #### Por el puntaje obtenido en la tabla de valoración, con un total de 28 puntos el concepto solución 3 es el más viable.
 
+### Proyectos Preliminares:
+
+#### Proyecto 1:
+![P1](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/P1.jpg) 
+
+#### Proyecto 2:
+![P2B](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/P2B.jpg) 
+
+#### Proyecto 3:
+![P3](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/P3.jpg) 
+
+#### Matrices de Valoración Técnica y Económica
+![TablasValor](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/TablasValor.jpg) 
+
+#### Proyecto Optimo
+![ProyectoOptimo](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/ProyectoOptimo.jpg) 
+
+#### Conclusión:
+##### Se concluye que el proyecto óptimo es el proyecto preliminar 3, debido a que se acerca a la recta del puntaje ideal. Esto se definió después de calcular los valores económicos y técnicos en nuestros tres proyectos preliminares. El proyecto preliminar 3 resalto por su función, seguridad y eficacia.
+
 #### Bibliografía:
 
 ###### 1 - Camacho-Conchucos HT. Pacientes amputados por accidentes de trabajo: características y años acumulados de vida productiva potencial perdidos. An Fac Med (Lima, Perú ) [Internet]. 2010 [citado el 27 de agosto de 2023];71(4):271–5. Disponible en:ht<span>tp://ww<span>w.<span>sci<span>elo.org.pe/s<span>cielo.php?script=sci_arttext&pid=S1025-55832010000400011
