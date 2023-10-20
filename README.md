@@ -119,6 +119,9 @@
 ##### Circuito Esquemático:
 ![CircuitoEsquema](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/CircuitoEsquema.png) 
 
+#### SketchFab:
+##### https://sketchfab.com/miguelangelteoc/models
+
 #### Bibliografía:
 
 ###### 1 - Camacho-Conchucos HT. Pacientes amputados por accidentes de trabajo: características y años acumulados de vida productiva potencial perdidos. An Fac Med (Lima, Perú ) [Internet]. 2010 [citado el 27 de agosto de 2023];71(4):271–5. Disponible en:ht<span>tp://ww<span>w.<span>sci<span>elo.org.pe/s<span>cielo.php?script=sci_arttext&pid=S1025-55832010000400011
