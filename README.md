@@ -112,6 +112,10 @@
 #### Conclusión:
 ##### Se concluye que el proyecto óptimo es el proyecto preliminar 3, debido a que se acerca a la recta del puntaje ideal. Esto se definió después de calcular los valores económicos y técnicos en nuestros tres proyectos preliminares. El proyecto preliminar 3 resalto por su función, seguridad y eficacia.
 
+### Circuitos:
+##### Circuito General
+![CircuitoFoto](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/CircuitoFoto.png) 
+
 #### Bibliografía:
 
 ###### 1 - Camacho-Conchucos HT. Pacientes amputados por accidentes de trabajo: características y años acumulados de vida productiva potencial perdidos. An Fac Med (Lima, Perú ) [Internet]. 2010 [citado el 27 de agosto de 2023];71(4):271–5. Disponible en:ht<span>tp://ww<span>w.<span>sci<span>elo.org.pe/s<span>cielo.php?script=sci_arttext&pid=S1025-55832010000400011
