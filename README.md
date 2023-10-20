@@ -109,12 +109,15 @@
 #### Proyecto Optimo
 ![ProyectoOptimo](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/ProyectoOptimo.jpg) 
 
+
 #### Conclusión:
 ##### Se concluye que el proyecto óptimo es el proyecto preliminar 3, debido a que se acerca a la recta del puntaje ideal. Esto se definió después de calcular los valores económicos y técnicos en nuestros tres proyectos preliminares. El proyecto preliminar 3 resalto por su función, seguridad y eficacia.
 
 ### Circuitos:
 ##### Circuito General
 ![CircuitoFoto](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/CircuitoFoto.png) 
+##### Circuito Esquemático:
+![CircuitoEsquema](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/CircuitoEsquema.png) 
 
 #### Bibliografía:
 
