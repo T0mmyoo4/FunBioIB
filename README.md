@@ -50,7 +50,7 @@
 ### Problemática:
 
 ###### Las personas que presentan una amputación funcional transmetacarpiana entre 20 a 30 años de edad con una ocupación laboral que implica un cierto esfuerzo físico no logran tener fuerza suficiente para agarrar. (Nos centraremos en el agarre pinza)
-##### ¿Cómo podríamos mejorar el agarre pinza de las personas con amputaciones trans metacarpianas entre 20 a 30 años en Lima- Perú que desean obtener una cierta fuerza de agarre pinza?
+##### ¿Cómo podríamos mejorar el agarre pinza de las personas con amputaciones trans metacarpianas entre 20 a 30 años en Lima-Perú que desean obtener una cierta fuerza de agarre pinza?
 
 ### Estado del Arte comercial
 #### Tabla 3: Productos disponibles en el mercado  
