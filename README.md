@@ -55,6 +55,9 @@
 
 ### Entregables:
 - E1: [ENTREGABLE 1_Revisado](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/ENTREGABLE%201_Revisado.pdf)
+- E2: [Entregable 2_Revisado](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/Entregable%202_Revisado.pdf)
+- E3: [Entregable 3](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/Entregable%203.pdf)
+- E4: [Entrgable 4](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/Entregable%204.pdf)
 
 ### Estado del Arte comercial
 #### Tabla 3: Productos disponibles en el mercado  
