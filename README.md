@@ -8,7 +8,7 @@
 * TELLO OCAÑA MIGUEL ANGEL - Coordinador de modelado 3D
 * GAMARRA LEYVA ALEJANDRA IVONNE - Coordinadora de investigación y redacción
 
-## Buscamos poder devolver utilidad mecánica a la mano
+# Buscamos poder devolver utilidad mecánica a la mano
 
 ###### Dentro del caso clinico estudiado decidimos enfocarnos en la amputación transmetacarpiana del pulgar, en específico por la necesidad del usuario de recuperar su EMPLEO, lo cual también implica su propia sustentabilidad.
 
@@ -50,7 +50,11 @@
 ### Problemática:
 
 ###### Las personas que presentan una amputación funcional transmetacarpiana entre 20 a 30 años de edad con una ocupación laboral que implica un cierto esfuerzo físico no logran tener fuerza suficiente para agarrar. (Nos centraremos en el agarre pinza)
-##### ¿Cómo podríamos mejorar el agarre pinza de las personas con amputaciones trans metacarpianas entre 20 a 30 años en Lima-Perú que desean obtener una cierta fuerza de agarre pinza?
+
+## ¿Cómo podríamos mejorar el agarre pinza de las personas con amputaciones trans metacarpianas entre 20 a 30 años en Lima-Perú que desean obtener una cierta fuerza de agarre pinza?
+
+### Entregables:
+- E1: [ENTREGABLE 1_Revisado](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/ENTREGABLE%201_Revisado.pdf)
 
 ### Estado del Arte comercial
 #### Tabla 3: Productos disponibles en el mercado  
