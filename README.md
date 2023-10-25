@@ -3,10 +3,10 @@
 ![FotoGrupal](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/FotoGrupal.jpeg)
 * ARANGO ESCALANTE NICOLAS THOMAS - Coordinador de electrónica, manejo del GitHub
 *  ABANTO TRUJILLO ADRIANA TAYLI - Coordinadora de programación
-* GORBEÑA GALARZA RODRIGO JOAQUIN - Coordinador de impresión 3D, manufactura
-* PALMA ARAUJO GLORIA CECILIA - Coordinadora general, modelado 2D
+* GORBEÑA GALARZA RODRIGO JOAQUIN - Coordinador de impresión 3D
+* PALMA ARAUJO GLORIA CECILIA - Coordinadora general y planos 
 * TELLO OCAÑA MIGUEL ANGEL - Coordinador de modelado 3D
-* GAMARRA LEYVA ALEJANDRA IVONNE - Coordinadora de investigación y redacción
+* GAMARRA LEYVA ALEJANDRA IVONNE - Coordinadora de investigación y bocetos
 
 # Buscamos poder devolver utilidad mecánica a la mano
 
