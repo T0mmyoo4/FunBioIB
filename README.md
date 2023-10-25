@@ -53,6 +53,8 @@
 
 ## ¿Cómo podríamos mejorar el agarre pinza de las personas con amputaciones trans metacarpianas entre 20 a 30 años en Lima-Perú que desean obtener una cierta fuerza de agarre pinza?
 
+#### Más información sobre el avance del proyecto:
+
 ### Entregables:
 - E1: [ENTREGABLE 1_Revisado](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/ENTREGABLE%201_Revisado.pdf)
 - E2: [Entregable 2_Revisado](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/Entregable%202_Revisado.pdf)
