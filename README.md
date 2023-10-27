@@ -60,7 +60,10 @@
 - E2: [Entregable 2_Revisado](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/Entregable%202_Revisado.pdf)
 - E3: [Entregable 3](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/Entregable%203.pdf)
 - E4: [Entrgable 4](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/Entregable%204.pdf)
-- E5: [Entregsble 5](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/Entregable%205.pdf)
+- E5: [Entregable 5](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/Entregable%205.pdf)
+
+### Hitos:
+- H1: [Hito 1](https://www.canva.com/design/DAFyTd8aP7Q/IEfiGayODLkTJ1BN2M5tFw/edit?utm_content=DAFyTd8aP7Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 #### Asimismo, dentro de las carpetas correspondientes a Hardaware, Software y Documentación se encuentra información más detallada en relación con el título de cada una de ellas.
 
