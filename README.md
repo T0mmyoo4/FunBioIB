@@ -60,18 +60,13 @@
 - E2: [Entregable 2_Revisado](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/Entregable%202_Revisado.pdf)
 - E3: [Entregable 3](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/Entregable%203.pdf)
 - E4: [Entrgable 4](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/Entregable%204.pdf)
+- E5: [Entregsble 5](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/Entregable%205.pdf)
 
 ### Circuitos:
 ##### Circuito General
 ![CircuitoFoto](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/CircuitoFoto.png) 
 ##### Circuito Esquemático:
 ![CircuitoEsquema](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/CircuitoEsquema.png) 
-
-#### SketchFab:
-##### https://sketchfab.com/miguelangelteoc/models
-
-#### Modelado de Partes:
-###### https://docs.google.com/document/d/1HptVkZt55tvuKDYiGCR3Ry8n8kSUG3fVYkJgqGZXgJ8/edit?usp=sharing
 
 #### Bibliografía:
 
