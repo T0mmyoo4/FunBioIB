@@ -39,7 +39,7 @@ void loop() {
   if(angle>0){
     for(contador=0; contador<numDatos; contador ++){
      //Guardando datos
-     Serial.println("Guardando datos");
+     Serial.print("Guardando datos");
      arrayFlexo[contador]=angle;
      Serial.println(contador);
      Serial.println(arrayFlexo[contador]);
