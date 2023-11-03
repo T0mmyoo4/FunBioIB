@@ -61,6 +61,7 @@
 - E3: [Entregable 3](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/Entregable%203.pdf)
 - E4: [Entrgable 4](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/Entregable%204.pdf)
 - E5: [Entregable 5](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/Entregable%205.pdf)
+- E6: [Entregable 6](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/Entregable%206.pdf)
 
 ### Hitos:
 - H1: [Hito 1](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Hitos/Hito1.pdf)
