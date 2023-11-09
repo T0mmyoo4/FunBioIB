@@ -1,66 +1,54 @@
 #include <Servo.h>
-
-Servo servo; // Crea una instancia del objeto Servo
+Servo servo; 
 
 int flexoPin = A0; // Pin donde se conecta el flexómetro
-int flexoVal;   // Valor leído 
+int flexoVal;   // Valor leído
 
 int servoPin =6 ; // Pin donde se conecta el servo motor
-int minAngle =0; // Ángulo mínimo del servo 
-int maxAngle =180; // Ángulo máximo del servo 
+int minAngle =0; // Ángulo mínimo del servo
+int maxAngle =180; // Ángulo máximo del servo
 
-//Dlaración de más variables 
-int contador;
-int numDatos=10;
-float arrayFlexo[10];
-float suma;
-float promedio;
-
-
+//Dlaración de más variables
+const int cantDatos = 10; //Cantidad datos para la media móvil
+int flexoReadings[cantDatos];
+int numDato = 0;
+float mediaMovil;
 
 void setup() {
   servo.attach(servoPin); // Adjunta el servo al pin
-  servo.write(90);       // Posición inicial del servo 
+  servo.write(90);       // Posición inicial del servo
   Serial.begin(9600);    // Inicia la comunicación serial para depuración
 }
-
 void loop() {
+  // Leer el valor del flexómetro
+  flexoVal = analogRead(flexoPin);
 
-  flexoVal= analogRead(flexoPin);
+  // Mapear el valor del flexómetro al rango de ángulo del servo
+  int angle = map(flexoVal, 229, 624, minAngle, maxAngle);
 
-  // Mapea el valor del flexómetro al rango de ángulo del servo
-  int angle = map(flexoVal,229,624, minAngle, maxAngle);
-    // Muestra los valores en el monitor serial para depuración
-  Serial.print("Flexometer Value: ");
+  // Guardar la lectura actual en el arreglo
+  flexoReadings[numDato] = angle;
+  // Para saber en q número de dato se encuentra
+  numDato = (numDato + 1) % cantDatos; 
+
+  // Calcular el promedio de la media móvil
+  mediaMovil = 0;
+  for (int i = 0; i < cantDatos; i++) {
+    mediaMovil += flexoReadings[i];
+  }
+    mediaMovil /= cantDatos;
+
+  // Muestra los valores en el monitor serial para depuración
+  Serial.print("Flexómetro: ");
   Serial.println(flexoVal);
-  Serial.print("Servo Angle: ");
+  Serial.print("Servo: ");
   Serial.println(angle);
+  Serial.print("Media móvil: ");
+  Serial.println(mediaMovil);
 
-  if(angle>0){
-    for(contador=0; contador<numDatos; contador ++){
-     //Guardando datos
-     Serial.print("Guardando datos");
-     arrayFlexo[contador]=angle;
-     Serial.println(contador);
-     Serial.println(arrayFlexo[contador]);
-
-     contador =0;
-     suma=0;
-     promedio=0;
-     for(contador; contador<numDatos; contador++){
-      suma=suma+arrayFlexo[contador];
-     }
-      promedio=suma/numDatos;
-      Serial.print("El promedio es: ");
-      Serial.println(promedio);
-      
-
-
-      servo.write(promedio); // Mueve el servo al ángulo calculado
+  servo.write(mediaMovil); // Mueve el servo
 
   delay(80);
-  }
-}
 }
 
 
