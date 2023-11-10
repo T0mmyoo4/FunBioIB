@@ -1,8 +1,10 @@
 #include <Servo.h>
+
 // GRUPO 15 
 // Curso: Fundamentos De Biodiseño. 
 // Versión Final
 // Código para el funcionamiento del servomotor.
+
 Servo servoDedoPulgar; // se crea una instancia con el nombre servoDedoPulgar
 //Declaramos variables
 int flexoPin = A0;
