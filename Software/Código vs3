@@ -1,8 +1,10 @@
 #include <Servo.h>
+
 // GRUPO 15
 // Curso: Fundamentos de Biodiseño
 // Versión 3
 // Código para el funcionamiento del servomotor
+
 Servo servo;   // crea una instancia de Servo  
 
 // Declaramos Variables
