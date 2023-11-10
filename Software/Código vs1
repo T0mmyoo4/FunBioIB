@@ -1,0 +1,61 @@
+#include <Servo.h>
+
+Servo servo; // Crea una instancia del objeto Servo
+
+int flexoPin = A0; // Pin donde se conecta el flexómetro
+int flexoVal;   // Valor leído 
+
+int servoPin =6 ; // Pin donde se conecta el servo motor
+int minAngle =0; // Ángulo mínimo del servo 
+int maxAngle =180; // Ángulo máximo del servo 
+
+//Dlaración de más variables 
+int contador;
+int numDatos=10;
+float arrayFlexo[10];
+float suma;
+float promedio;
+
+
+void setup() {
+  servo.attach(servoPin); // Adjunta el servo al pin
+  servo.write(90);       // Posición inicial del servo 
+  Serial.begin(9600);    // Inicia la comunicación serial para depuración
+}
+
+void loop() {
+
+  flexoVal= analogRead(flexoPin);
+
+  // Mapea el valor del flexómetro al rango de ángulo del servo
+  int angle = map(flexoVal,229,624, minAngle, maxAngle);
+    // Muestra los valores en el monitor serial para depuración
+  Serial.print("Flexometer Value: ");
+  Serial.println(flexoVal);
+  Serial.print("Servo Angle: ");
+  Serial.println(angle);
+
+  if(angle>0){
+    for(contador=0; contador<numDatos; contador ++){
+     //Guardando datos
+     Serial.println("Guardando datos");
+     arrayFlexo[contador]=angle;
+     Serial.println(contador);
+     Serial.println(arrayFlexo[contador]);
+
+     contador =0;
+     suma=0;
+     promedio=0;
+     for(contador; contador<numDatos; contador++){
+      suma=suma+arrayFlexo[contador];
+     }
+      promedio=suma/numDatos;
+      Serial.print("El promedio es: ");
+      Serial.println(promedio);
+
+      servo.write(promedio); // Mueve el servo al ángulo calculado
+
+  delay(80);
+  }
+ }
+}
