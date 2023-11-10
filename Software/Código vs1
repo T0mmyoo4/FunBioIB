@@ -1,5 +1,10 @@
 #include <Servo.h>
 
+// GRUPO 15 
+// Curso: Fundamentos De Biodiseño. 
+// Versión 1
+// Código para el funcionamiento del servomotor.
+
 Servo servo; // Crea una instancia del objeto Servo
 
 int flexoPin = A0; // Pin donde se conecta el flexómetro
