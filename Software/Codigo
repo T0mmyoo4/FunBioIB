@@ -1,14 +1,19 @@
 #include <Servo.h>
-Servo servo; 
+// GRUPO 15 
+// Curso: Fundamentos De Biodiseño. 
+// Versión 2
+// Código para el funcionamiento del servomotor.
+
+Servo servo; // Se crea una instancia de Servo
 
 int flexoPin = A0; // Pin donde se conecta el flexómetro
 int flexoVal;   // Valor leído
 
-int servoPin =6 ; // Pin donde se conecta el servo motor
-int minAngle =0; // Ángulo mínimo del servo
+int servoPin =6 ;  // Pin donde se conecta el servo motor
+int minAngle =0;   // Ángulo mínimo del servo
 int maxAngle =180; // Ángulo máximo del servo
 
-//Dlaración de más variables
+// Dlaración de más variables
 const int cantDatos = 10; //Cantidad datos para la media móvil
 int datosGuardados[cantDatos];
 int numDato = 0;
@@ -16,32 +21,29 @@ float mediaMovil;
 
 void setup() {
   servo.attach(servoPin); // Adjunta el servo al pin
-  servo.write(90);       // Posición inicial del servo
-  Serial.begin(9600);    // Inicia la comunicación serial para depuración
+  servo.write(90);        // Posición inicial del servo
+  Serial.begin(9600);     // Inicia la comunicación serial para depuración
 }
 void loop() {
-  // Leer el valor del flexómetro
+  // Lee el valor del flexómetro
   flexoVal = analogRead(flexoPin);
 
-  // Mapear el valor del flexómetro al rango de ángulo del servo
+  // Mapea el valor del flexómetro al rango de ángulo del servo
   int angle = map(flexoVal, 229, 624, minAngle, maxAngle);
 
-  // Guardar la lectura 
+  // Guarda la lectura 
   datosGuardados[numDato] = angle;
-  //Para saber en q número de dato se encuentra
+
+  // Para saber en q número de dato se encuentra
   numDato = (numDato + 1) % cantDatos; 
-  Serial.print("# dato: ");
-  Serial.println(numDato);
-  Serial.print("val: ");
-  Serial.println(angle);
 
   // Calcular el promedio de la media móvil
   mediaMovil = 0;
   for (int i = 0; i < cantDatos; i++) {
-    //cada valor nuevo q ingresé sustituirá al inicial
+  // Cada valor nuevo q ingresé sustituirá al inicial
     mediaMovil += datosGuardados[i]; 
   }
-  
+  // Calcula la media móvil
     mediaMovil /= cantDatos;
 
   // Muestra los valores en el monitor serial para depuración
@@ -56,4 +58,3 @@ void loop() {
 
   delay(80);
 }
-
