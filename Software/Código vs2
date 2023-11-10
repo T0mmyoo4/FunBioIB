@@ -1,1 +1,51 @@
+#include <Servo.h>
+// GRUPO 15
+// Curso: Fundamentos de Biodiseño
+// Versión 3
+// Código para el funcionamiento del servomotor
+Servo servo;   // crea una instancia de Servo  
 
+// Declaramos Variables
+int flexoPin = A0;
+int flexoVal;
+int servoPin = 6;
+int minAngle = 0;
+int maxAngle = 180;
+
+const int cantDatos = 10;
+int datosGuardados[cantDatos];
+int numDato = 0;
+float mediaMovil;
+
+// Declaramos de tipo long porque esta variable puede contener valores mucho mayores que el int.
+long previousMillis = 0;
+const long interval = 80; // aquí podemos variar los valores
+
+void setup() {
+  //Datos de inicialización y configuración
+  servo.attach(servoPin); //inicia la conexión entre el arduino y el pin donde está conectado el servomotor
+  servo.write(90); //ángulo inicial del servo
+  Serial.begin(9600); //inicia la comunicación serial a 9600 baudios.
+}
+
+void loop() {
+  // leemos los valores del flexómetro
+  flexoVal = analogRead(flexoPin);
+  //mapea los valores del flexómetro a los ángulos del servo
+  int angle = map(flexoVal, 229, 624, minAngle, maxAngle);
+  //guardamos datos con un arreglo
+  datosGuardados[numDato] = angle;
+  //asegura que numDato vuelva a cero cuando exceda la cantidad de datos establecida.
+  numDato = (numDato + 1) % cantDatos;
+  // Para calcular la suma de los datos guardados
+  mediaMovil = 0;
+  for (int i = 0; i < cantDatos; i++) {
+    mediaMovil += datosGuardados[i];
+  }
+    mediaMovil /= cantDatos;
+   // verifica si ha pasado el tiempo que se ha declarado como interval
+  if (millis() - previousMillis >= interval) {
+    servo.write(mediaMovil); // mueve el servo
+    previousMillis = millis();
+  }
+}
