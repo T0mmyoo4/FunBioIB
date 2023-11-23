@@ -44,6 +44,43 @@ País: Estados Unidos de América
 # 2) US8343234B2 - Prótesis de mano compuesta por 2 dispositivos de conducción
  ![PAT2](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/PAT2.jpg)
  
+Se trata de una prótesis capaz de reemplazar 3 dedos de la mano (dedo índice, dedo medio y pulgar). Se caracteriza por estar compuesta por un chasis y 2 accionamientos capaces de permitirle al usuario realizar movimientos relativamente complejos. El primer accionamiento permite un movimiento del dedo alrededor de un eje de giro, ubicado en el chasis de la prótesis, mientras que, el segundo accionamiento permite otro movimiento alrededor de un segundo eje dependiente del primero. En ese sentido, la estructura de la prótesis permite un movimiento complejo de los dedos por medio de una conexión entre el primer accionamiento y una unidad de transmisión de fuerza de tal manera que cede ante una mínima aplicación de tensión o presión a la unidad de transmisión de fuerza por efecto de acciones como el cierre de la mano o la reducción del ángulo entre la prótesis del dedo y el chasis. Esta especie de mecanismo y su funcionamiento es gracias a la presencia de cables, alambres o fibras que están ubicadas en la unidad de transmisión de fuerza y permiten la transmisión de las fuerzas de tracción en las zonas de cada dedo, simulando el movimiento de flexión o elasticidad. A su vez, esta unidad de transmisión de fuerza puede ser configurada como un amortiguador de resorte, de tal manera que el volumen del aire se comprime bajo la carga de presión y se expande en ausencia de la misma provocando el desplazamiento de un pistón ubicado en la prótesis de dedo. Cabe resaltar que, para la realización de estos movimientos, es importante que la unidad de transmisión de fuerza, comprenda componentes elastómeros de fácil llegada y retorno a su estado final e inicial.   (17)
+Información útil:
+La patente utiliza un mecanismo ingenioso para el movimiento de los dedos de manera que mediante la aplicación de una pequeña cantidad de fuerza, se obtenga un movimiento de tracción aceptable para el movimiento de la prótesis. En ese sentido, se puede resaltar el uso de componentes elásticos mediante una unidad de transmisión de fuerza en la prótesis para asimilar una función referida a los tendones del dedo pulgar, los cuales permiten la flexión del dedo como tal, en conjunto con la reducción del ángulo parcial o total de los dedos si se llega a cerrar la mano para agarrar objetos o realizar un agarre “pinza”.
+Fecha de publicación: 01/01/13
+País: Estados Unidos de América
+Recuperado de: https://patents.google.com/patent/US8343234B2/en?q=(finger+prosthesis)&oq=finger+prosthesis
+
+# 3) Patente de modelo de utilidad:
+El Dispositivo háptico portátil con actuadores intercambiables para prótesis de extremidad inventado por Enzo Romero, egresado de Ingeniería Mecatrónica PUCP, logra replicar la sensación del tacto en una persona que utiliza una prótesis de extremidad superior cuando el usuario presiona el objeto con los dedos de la  prótesis. De esta manera cuando una persona sujeta un objeto, la sensaciòn de fuerza es transmitida al antebrazo de la persona, esto se debe a tres unidades mecano táctiles las cuales dependen de tres sensores de fuerza ubicados en un elemento que se encuentra en el antebrazo.(18)
+
+![PAT3](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/PAT3.jpg)
+
+Recuperado:  https://ieeexplore-ieee-org.ezproxybib.pucp.edu.pe/document/7836230
+Fecha de publicación: 08/12/2019
+N° de resolución: 2325-2019/DIN
+País: Perú
+
+## Listas de Requerimientos: 
+
+![LRFU](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/LRFU.jpg)
+
+![LRNFU](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/LRNFU.jpg)
+
+# Propuesta de Solución:
+Desarrollo de una prótesis de pulgar para personas con amputación transmetacarpiana enfocada en la fuerza del agarre pinza de bajo costo impresa en 3D. 
+
+
+# BIBLIOGRAFÍA:
+
+13. College-park.com. [citado el 14 de septiembre de 2023]. Disponible en: https://www.college-park.com/titan-flex
+14. College-park.com. [citado el 14 de septiembre de 2023]. Disponible en: https://www.college-park.com/m-thumb-black
+15. Point Thumb [Internet]. Pointdesignsllc.com. [citado el 14 de septiembre de 2023]. Disponible en: https://www.pointdesignsllc.com/products/thumb-prosthesis
+16. WIPO - search international and national patent collections [Internet]. Wipo.int. [citado el 14 de septiembre de 2023]. Disponible en: https://patentscope.wipo.int/search/en/detail.jsf?docId=US320885759&_cid=P11-LM88HA-24444-1
+17. Puchhammer G. Hand prosthesis comprising two drive devices. US Patent. 8343234, 2013. [citado el 14 de septiembre de 2023]. Disponible en: https://patents.google.com/patent/US8343234B2/en?q=(finger+prosthesis)&oq=finger+prosthesis
+18. Design of a non-invasive haptic feedback device for transradial myoelectric upper limb prosthesis [Internet]. IEEE ANDESCON. [citado el 14 de septiembre de 2023]. Disponible en: https://ieeexplore-ieee-org.ezproxybib.pucp.edu.pe/document/7836230
+
+
 
 
    
