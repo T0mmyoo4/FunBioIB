@@ -73,6 +73,10 @@ Desarrollo de una prótesis de pulgar para personas con amputación transmetacar
 
 
 
+
+
+
+
 # BIBLIOGRAFÍA:
 
 13. College-park.com. [citado el 14 de septiembre de 2023]. Disponible en: https://www.college-park.com/titan-flex
