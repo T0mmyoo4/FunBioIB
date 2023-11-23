@@ -66,8 +66,11 @@ País: Perú
 ![LRFU](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/LRFU.jpg)
 ![LRNFU](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/LRNFU.jpg)
 
+
 # Propuesta de Solución:
 Desarrollo de una prótesis de pulgar para personas con amputación transmetacarpiana enfocada en la fuerza del agarre pinza de bajo costo impresa en 3D. 
+
+
 
 
 # BIBLIOGRAFÍA:
