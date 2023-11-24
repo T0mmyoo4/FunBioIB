@@ -15,9 +15,13 @@ Dedo pulgar protésico enfocado en la fuerza de agarre y agarre pinza para amput
 
 
 ## Medir: Mide el grado de flexión del dedo.
+
 ## Almacenar: El dispositivo almacena un tipo de dato, el grado de flexión y lo envía al motor.
+
 ## Procesar: Se procesa el ángulo de flexión y se traslada al servomotor mediante el arduino.
+
 ## Flexionar: La prótesis realiza la flexión necesaria de acuerdo a lo que procesa el sensor.
+
 ## Regular: Regular la potencia del servomotor dependiendo del ángulo de flexión.
 
 
