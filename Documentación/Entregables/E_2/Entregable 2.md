@@ -9,7 +9,7 @@ La flexión de la prótesis no está controlada por la propia mano en la que est
 ![EC1](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/EC1.jpg)
 
 Información útil: De esta prótesis se rescata la inclusión de almohadillas de goma en zonas estratégicas para mejorar el agarre que posee. Además, permite que el dedo pueda posicionarse y moverse de formas distintas; mediante un cable conectado al antebrazo que causa la flexión del dedo debido a la flexión de la muñeca o aplicando presión en la parte posterior del dedo y reposicionar manualmente.
-Recuperado de: http<span>s://www.co<span>llege-park.com/tit<span>an-flex
+Recuperado de: http<span>s:/<span>/ww<span>w.co<span>llege-park.com/tit<span>an-flex
 
 # Titan thumb / M-thumb:
 Prótesis específica para amputaciones a nivel transmetacarpiana, su soporte cubre a toda la palma de la mano para la distribución del peso, pero la flexión de esta no es dependiente al movimiento de la mano. La prótesis es de mayor utilidad en situaciones donde se requiere trabajo de carga pesada con poca movilidad. 
@@ -25,7 +25,7 @@ Se trata de una prótesis del dedo pulgar diseñada para ser liviana y resistent
 
 ![EC3](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/EC3.jpg)
 
-Recuperado de: https<span>://www.poin<span>tdesignsllc.com/produ<span>cts/thu<span>mb-prosthesis
+Recuperado de: https<span>:/<span>/www<span>.poin<span>tdesignsllc.com/produ<span>cts/thu<span>mb-prosthesis
 Información útil: El presente producto tiene un novedoso mecanismo de trinquete con retorno automático presenta una flexión y rotación anatómica que reemplaza la articulación metacarpofalángica; por otro lado, tiene una almohadilla para los pulgares, que simulan las yemas de los dedos para un mejor agarre.  
 
 Patentes:
