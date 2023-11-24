@@ -57,9 +57,9 @@
 #### Más información sobre el avance del proyecto:
 
 ### Entregables:
-- E1: [ENTREGABLE 1_Revisado](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/ENTREGABLE%201_Revisado.pdf)
-- E2: [Entregable 2_Revisado](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/Entregable%202_Revisado.pdf)
-- E3: [Entregable 3](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/Entregable%203.pdf)
+- E1: [ENTREGABLE 1_Revisado](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/E_1/Entregable%20corregido.md)
+- E2: [Entregable 2_Revisado](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/E_2/Entregable%202.md)
+- E3: [Entregable 3](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/E_3/Entregable%203.md)
 - E4: [Entrgable 4](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/Entregable%204.pdf)
 - E5: [Entregable 5](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/Entregable%205.pdf)
 - E6: [Entregable 6](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/Entregable%206.pdf)
