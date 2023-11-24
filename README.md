@@ -3,7 +3,7 @@
 ![FotoGrupal](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/FotoGrupal.jpeg)
 #### Izquierda a derecha
 * ARANGO ESCALANTE NICOLAS THOMAS - Coordinador de electrónica, manejo del GitHub
-*  ABANTO TRUJILLO ADRIANA TAYLI - Coordinadora de programación
+*  ABANTO TRUJILLO ADRIANA TAYLI - Coordinadora de programación, manejo del GitHub
 * GORBEÑA GALARZA RODRIGO JOAQUIN - Coordinador de impresión 3D
 * PALMA ARAUJO GLORIA CECILIA - Coordinadora general y planos 
 * TELLO OCAÑA MIGUEL ANGEL - Coordinador de modelado 3D
