@@ -79,7 +79,7 @@ Desarrollo de una prótesis de pulgar para personas con amputación transmetacar
 
 # BIBLIOGRAFÍA:
 
-13. College-park.com. [citado el 14 de septiembre de 2023]. Disponible en: ht<span>tps:/<span>/www.col<span>lege-park.c<span>om/tita<span>n-flex
+13. College-park.com. [citado el 14 de septiembre de 2023]. Disponible en:<span> h<span>t<span>tp<span>s:/<span>/www.col<span>lege-park.c<span>om/tita<span>n-flex
 14. College-park.com. [citado el 14 de septiembre de 2023]. Disponible en: https<span>:/<span>/www.colle<span>ge-park.com/m-t<span>humb-black
 15. Point Thumb [Internet]. Pointdesignsllc.com. [citado el 14 de septiembre de 2023]. Disponible en: https://www.pointdesignsllc.com/products/thumb-prosthesis
 16. WIPO - search international and national patent collections [Internet]. Wipo.int. [citado el 14 de septiembre de 2023]. Disponible en: https<span>:/<span>/patentsco<span>pe.wipo.<span>int/se<span>arch/en/detail.jsf?docId=U<span>S320885759&_cid=P11-LM88H<span>A-24444-1
