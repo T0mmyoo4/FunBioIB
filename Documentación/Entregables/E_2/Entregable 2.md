@@ -79,12 +79,12 @@ Desarrollo de una prótesis de pulgar para personas con amputación transmetacar
 
 # BIBLIOGRAFÍA:
 
-13. College-park.com. [citado el 14 de septiembre de 2023]. Disponible en:<span> https://www.college-park.com/titan-flex <span>
-14. College-park.com. [citado el 14 de septiembre de 2023]. Disponible en: https://www.college-park.com/m-thumb-black
+13. College-park.com. [citado el 14 de septiembre de 2023]. Disponible en: ht<span>tps:/<span>/www.col<span>lege-park.c<span>om/tita<span>n-flex
+14. College-park.com. [citado el 14 de septiembre de 2023]. Disponible en: https<span>:/<span>/www.colle<span>ge-park.com/m-t<span>humb-black
 15. Point Thumb [Internet]. Pointdesignsllc.com. [citado el 14 de septiembre de 2023]. Disponible en: https://www.pointdesignsllc.com/products/thumb-prosthesis
-16. WIPO - search international and national patent collections [Internet]. Wipo.int. [citado el 14 de septiembre de 2023]. Disponible en: https://patentscope.wipo.int/search/en/detail.jsf?docId=US320885759&_cid=P11-LM88HA-24444-1
-17. Puchhammer G. Hand prosthesis comprising two drive devices. US Patent. 8343234, 2013. [citado el 14 de septiembre de 2023]. Disponible en: https://patents.google.com/patent/US8343234B2/en?q=(finger+prosthesis)&oq=finger+prosthesis
-18. Design of a non-invasive haptic feedback device for transradial myoelectric upper limb prosthesis [Internet]. IEEE ANDESCON. [citado el 14 de septiembre de 2023]. Disponible en: https://ieeexplore-ieee-org.ezproxybib.pucp.edu.pe/document/7836230
+16. WIPO - search international and national patent collections [Internet]. Wipo.int. [citado el 14 de septiembre de 2023]. Disponible en: https<span>:/<span>/patentsco<span>pe.wipo.<span>int/se<span>arch/en/detail.jsf?docId=U<span>S320885759&_cid=P11-LM88H<span>A-24444-1
+17. Puchhammer G. Hand prosthesis comprising two drive devices. US Patent. 8343234, 2013. [citado el 14 de septiembre de 2023]. Disponible en: https://pate<span>nts.<span>google.com/pate<span>nt/US834<span>3234B2/en?q=(finger+prosthesis)&oq=finger+pr<span>osthesis
+18. Design of a non-invasive haptic feedback device for transradial myoelectric upper limb prosthesis [Internet]. IEEE ANDESCON. [citado el 14 de septiembre de 2023]. Disponible en: htt<span>ps:/<span>/iee<span>explore-ieee<span>-org.ezpro<span>xybib.puc<span>p.edu.pe/docum<span>ent/<span>7836230
 
 
 
