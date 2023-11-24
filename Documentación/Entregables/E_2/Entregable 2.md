@@ -18,7 +18,7 @@ Por otro lado, si se necesitase dexteridad, una alternativa es M-Thumb que tiene
 ![EC2](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/EC2.jpg)
 
 Información útil: Lo rescatable de este modelo de prótesis y lo que nosotros podríamos aplicar en nuestro proyecto es el de aprovechar la distribución del peso en zonas como la mano y el brazo para que la fatiga de uso sea menor para el usuario. Por otro lado, este mecanismo representa los tendones de la mano para la flexión del dedo y presenta un mecanismo ajustable para un mayor rango de movimiento.
-Recuperado de: ht<span>tps://www.col<span>lege-park.com/m-th<span>umb-black
+Recuperado de: ht<span>tps://ww<span>w.col<span>lege-park.com/m-th<span>umb-black
 
 # Point Thumb:
 Se trata de una prótesis del dedo pulgar diseñada para ser liviana y resistente, con la ventaja de poder realizar 11 posiciones únicas de flexión. Así pues, este producto está diseñado para personas que requieran de un dispositivo con alta durabilidad que sea capaz de realizar distintos movimientos característicos del pulgar, por lo que la misma está hecha de titanio y acero inoxidable. Cabe destacar que tiene una capacidad de carga de 68 kg y pesa alrededor de unos 28 a 38 g. (15)
@@ -34,7 +34,7 @@ Patentes de innovación:
   
  ![PAT1](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/PAT1.jpg)
  
- Recuperado de: htt<span>ps://pa<span>tentscope.wip<span>o.int/search/en/detail.jsf?<span>docId=US320885759&_cid=<span>P11-LM88HA-24444-1
+ Recuperado de: htt<span>ps:/<span>/pa<span>tentscope.wip<span>o.int/search/en/detail.jsf?<span>docId=US320885759&_cid=<span>P11-LM88HA-24444-1
  
 Proporciona sistemas, aparatos y dispositivos para un dedo protésico que puede ser utilizado en amputaciones en la articulación metacarpofalángica. El dispositivo restaura el agarre de una persona a la que le faltan  dedos o un pulgar aplicando fuerzas opuestas en la dirección de extensión a través de un trinquete cargado por resorte y un mecanismo de trinquete de cremallera de bloqueo, lo que permite a una persona manipular o estabilizar objetos. El dedo puede estar cargado por resorte en la dirección de extensión mediante un muelle de torsión u otro miembro de presión. El trinquete puede desengancharse automáticamente de la cremallera cuando el dedo alcanza la flexión completa, y el tope de desenganche de flexión completa puede ser ajustable. (16)
 Información útil: En este caso el trinquete, el soporte y la cremallera representan a los tendones que moverán la estructura y permitirán el agarre de múltiples objetos. Además, nuestro proyecto se encarga del agarre pinza y en esta patente brindan dos formas de lograr este tipo de agarre simulando los tendones y ligamentos. 
@@ -49,14 +49,14 @@ Información útil:
 La patente utiliza un mecanismo ingenioso para el movimiento de los dedos de manera que mediante la aplicación de una pequeña cantidad de fuerza, se obtenga un movimiento de tracción aceptable para el movimiento de la prótesis. En ese sentido, se puede resaltar el uso de componentes elásticos mediante una unidad de transmisión de fuerza en la prótesis para asimilar una función referida a los tendones del dedo pulgar, los cuales permiten la flexión del dedo como tal, en conjunto con la reducción del ángulo parcial o total de los dedos si se llega a cerrar la mano para agarrar objetos o realizar un agarre “pinza”.
 Fecha de publicación: 01/01/13
 País: Estados Unidos de América
-Recuperado de: https://paten<span>ts.google.com/patent/US8<span>343234B2/e<span>n?q=(finger+prosthes<span>is)&oq=finger+prosthes<span>is
+Recuperado de: http<span>s://pa<span>ten<span>ts.google.com/patent/US8<span>343234B2/e<span>n?q=(finger+prosthes<span>is)&oq=finger+prosthes<span>is
 
 # 3) Patente de modelo de utilidad:
 El Dispositivo háptico portátil con actuadores intercambiables para prótesis de extremidad inventado por Enzo Romero, egresado de Ingeniería Mecatrónica PUCP, logra replicar la sensación del tacto en una persona que utiliza una prótesis de extremidad superior cuando el usuario presiona el objeto con los dedos de la  prótesis. De esta manera cuando una persona sujeta un objeto, la sensaciòn de fuerza es transmitida al antebrazo de la persona, esto se debe a tres unidades mecano táctiles las cuales dependen de tres sensores de fuerza ubicados en un elemento que se encuentra en el antebrazo.(18)
 
 ![PAT3](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/PAT3.jpg)
 
-Recuperado:  htt<span>ps://ieeexplore-<span>ieee-org.ezproxybib.pucp.e<span>du.pe/docu<span>ment/7836230
+Recuperado:  htt<span>ps://i<span>eeexplore-<span>ieee-org.ezproxybib.pucp.e<span>du.pe/docu<span>ment/7836230
 Fecha de publicación: 08/12/2019
 N° de resolución: 2325-2019/DIN
 País: Perú
