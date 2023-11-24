@@ -28,15 +28,16 @@ Dedo pulgar protésico enfocado en la fuerza de agarre y agarre pinza para amput
 
 ## Hardware
 
-¿Cuánto peso debe tener la prótesis en conjunto?
+### ¿Cuánto peso debe tener la prótesis en conjunto?
 La prótesis en conjunto debe tener alrededor de 600 g.
-¿Cuánto peso debe tener la muñequeras en conjunto con la parte electrónica?
+
+### ¿Cuánto peso debe tener la muñequeras en conjunto con la parte electrónica?
 La muñequera en conjunto con la parte electrónica debe pesar alrededor de 300 g.
-¿De qué material es la prótesis y muñequera?
+### ¿De qué material es la prótesis y muñequera?
 Tanto la prótesis como la muñequera son de material PLA.
-¿Qué dimensiones debe tener la prótesis?
+### ¿Qué dimensiones debe tener la prótesis?
 La prótesis debe ser lo más cercana posible al tamaño del pulgar, en conjunto con una unión para soportar el servomotor adyacente y un socket adecuado para el muñón, es decir de una longitud de 14.5 cm x 7.2 cm x 16 cm aproximadamente.
-¿Qué dimensiones debe tener la muñequera?
+### ¿Qué dimensiones debe tener la muñequera?
 La muñequera debe tener 12.3 cm x 5 cm x 3.6 cm.
 
 
