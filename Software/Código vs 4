@@ -2,7 +2,7 @@
 
 // GRUPO 15 
 // Curso: Fundamentos De Biodiseño. 
-// Versión Final
+// Versión 4
 // Código para el funcionamiento del servomotor.
 
 Servo servoDedoPulgar; // se crea una instancia con el nombre servoDedoPulgar
