@@ -12,4 +12,4 @@
 | Frontera  | 53 | 11 horas 34 minutos | 20 | SÍ | Árbol | SÍ |
 | Unión  | 3 | 35 minutos | 20 | SÍ | Árbol | SÍ |
 | Muñequera  | 88 | 10 horas 42 minutos | 18 | SÍ | Árbol | SÍ |
-| | 183 | 31 horas 27 minutos | 18 | |  | |
+| | 183 | 31 horas 27 minutos | | |  | |
