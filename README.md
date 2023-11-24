@@ -10,6 +10,7 @@
 * GAMARRA LEYVA ALEJANDRA IVONNE - Coordinadora de investigación y bocetos
 
 ## Prótesis de Pulgar a bajo costo para amputaciones transmetacarpianas
+## Nombre de la Prótesis: KarpoFlex
 
 ### Dentro del caso clinico estudiado decidimos enfocarnos en la amputación transmetacarpiana del pulgar, en específico por la necesidad del usuario de recuperar su EMPLEO, lo cual también implica su propia sustentabilidad.
 
@@ -38,7 +39,7 @@ La figura 1 muestra los porcentajes de tiempo de forma global y para cada agarre
 ![B14](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/B14.jpeg)
 ![B13](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/B13.jpeg)
 
-# Prototipo 
+# Prototipo (KarpoFlex)
 
 ![C11](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/c11.jpeg)
 ![C12](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/c12.jpeg)
