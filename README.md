@@ -53,7 +53,7 @@ La figura 1 muestra los porcentajes de tiempo de forma global y para cada agarre
 - E2: [Entregable 2](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/E_2/Entregable%202.md)
 - E3: [Entregable 3](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/E_3/Entregable%203.md)
 - E4: [Entrgable 4](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/E_4/Entregable%204.md)
-- E5: [Entregable 5](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/Entregable%205.pdf)
+- E5: [Entregable 5](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/E_5/Entregable%205.md)
 - E6: [Entregable 6](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/E_6/Entregable%206%20.md)
 - E7: [Entregable 7](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Entregables/E_7%20/Entregable%207.md)
 - E8: [Entregable 8](https://github.com/T0mmyoo4/FunBioIB/tree/main/Documentaci%C3%B3n/Entregables/E_8%20)
