@@ -1,0 +1,70 @@
+#include <Servo.h>
+// GRUPO 15 
+// Curso: Fundamentos De Biodiseño. 
+// Versión 5
+// Código para el funcionamiento del servomotor.
+
+Servo servoDedoPulgar; // se crea una instancia con el nombre servoDedoPulgar
+
+// Declaramos variables
+int flexoPin = A0;
+int flexoVal;
+int servoPin = 6;
+int minAngle = 0;
+int maxAngle = 360;
+// Declaramos más variables
+const int cantDatos = 10;
+int datosGuardados[cantDatos];
+int numDato = 0;
+float mediaMovil;
+bool primerMovimiento = 1;
+
+// Configuración e inicialización
+void setup() {
+  //Datos de inicialización y configuración
+  servoDedoPulgar.attach(servoPin); //inicia la conexión entre el Arduino y el pin donde está conectado el servomotor
+  servoDedoPulgar.write(0); //ángulo inicial del servo
+  Serial.begin(9600); //inicia la comunicación serial a 9600 baudios.
+}
+
+void loop() {
+  //Leemos los valores que nos da el flexómetro
+  flexoVal = analogRead(flexoPin);
+  //utilizamos la función delayMicroseconds para configurar el tiempo de lectura
+  delayMicroseconds(100);
+  
+  // Mapea los valores del flexómetro a ángulos del servomotor
+  int angle;
+  if (primerMovimiento) {
+    angle = map(flexoVal, 229, 624, minAngle, 180); // Mover hasta 180 grados
+  } 
+  else {
+    angle = map(flexoVal, 229, 624, 180, maxAngle); // Mover desde 180 hasta 360 grados
+  }
+
+  // Guarda los datos 
+  datosGuardados[numDato] = angle;
+  
+  // Asegura que numDato vuelva a cero cuando exceda la cantidad de datos establecida.
+  numDato = (numDato + 1) % cantDatos;
+
+  // Calculamos la suma de los datos guardados
+  mediaMovil = 0;
+  for (int i = 0; i < cantDatos; i++) {
+    mediaMovil += datosGuardados[i];
+  }
+  mediaMovil /= cantDatos; // Calcula la media móvil
+
+  Serial.print("Flexómetro: ");
+  Serial.println(flexoVal);
+  Serial.print("Servo: ");
+  Serial.println(angle);
+  Serial.print("Media móvil: ");
+  Serial.println(mediaMovil);
+  
+  servoDedoPulgar.write(mediaMovil); // Mueve el servomotor
+
+  // Cambia la condición después del primer movimiento
+  if (angle >= 180 && primerMovimiento);
+    primerMovimiento = 0;
+  }
