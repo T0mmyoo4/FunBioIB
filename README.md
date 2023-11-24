@@ -9,9 +9,9 @@
 * TELLO OCAÑA MIGUEL ANGEL - Coordinador de modelado 3D
 * GAMARRA LEYVA ALEJANDRA IVONNE - Coordinadora de investigación y bocetos
 
-# Buscamos poder devolver utilidad mecánica a la mano
+## Prótesis de Pulgar a bajo costo para amputaciones transmetacarpianas
 
-###### Dentro del caso clinico estudiado decidimos enfocarnos en la amputación transmetacarpiana del pulgar, en específico por la necesidad del usuario de recuperar su EMPLEO, lo cual también implica su propia sustentabilidad.
+### Dentro del caso clinico estudiado decidimos enfocarnos en la amputación transmetacarpiana del pulgar, en específico por la necesidad del usuario de recuperar su EMPLEO, lo cual también implica su propia sustentabilidad.
 
 ### Caso Clínico:
 
@@ -20,17 +20,6 @@
 #### En contexto
 
 ###### Sobre las amputaciones en el Perú, se encontró que, en una revisión de 1290 casos de pacientes con alguna amputación, 108 fueron por accidentes laborales dando un 8,4% del total. Además, se señalan las zonas más afectadas, siendo la más frecuente en la zona debajo de la rodilla abarcando 27,3% de afectados del total de personas censadas. Por otro lado, en el rubro de manufactura fue en donde ocurrieron más accidentes con un 37,9% de casos. Por último, los hombres fueron los más afectados con un 98,2% y un 40,7% se encontraron en el rango de 21 a 30 años. (1) Según cifras del Ministerio de Trabajo se reportan 40 casos al mes de lesión de mano por causas laborales, cifra que representa el 30% del mercado laboral, puesto que más del 70% se encuentra en la informalidad. (2) Las lesiones digitales son extremadamente frecuentes y cuando estas involucran al pulgar pueden comprometer importantemente la función de la mano, tanto así que su amputación afecta hasta un 50% la función global de la mano y disminuye la fuerza de agarre hasta en un 20%. (3). En cuanto al tipo de agarre tenemos los siguientes: 
-
-#### Tabla 1: Descripción de agarres de la clasificación utilizada  
-| Tipo de Agarre | Descripción |
-| ----- | ---- |
-| Agarre cilíndrico | Interviene la palma. El pulgar está en oposición directa a los dedos (en abducción o posición neutra | 
-| Agarre palmar oblicuo  | Variante del cilíndrico. Interviene la palma, pero el pulgar está en aducción. | 
-| Agarre de gancho | No intervienen ni el pulgar ni la palma. El peso del objeto lo soportan los dedos |
-| Agarre lumbrical | Interviene el pulgar y la parte más proximal de los dedos (hasta la base de los nudillos), pero no interviene la palma |
-| Pinza lateral | Se utiliza la parte lateral de los dedos (uno o varios) y normalmente también el pulgar. | 
-| Pinza | Se utiliza el pulgar y las yemas de los dedos (uno o varios) | 
-| Agarre intermedio de potencia-precisión | Interviene algo la palma pero tanto el pulgar como el índice estabilizan el agarre |
 
 ###### La tabla 1 nos muestra los tipos de agarre que se dan a nivel de la mano donde se puede ver que en todos el uso del pulgar es indispensable.
 
