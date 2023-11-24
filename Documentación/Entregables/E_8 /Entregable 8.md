@@ -26,7 +26,7 @@ Dedo pulgar protésico enfocado en la fuerza de agarre y agarre pinza para amput
 
 
 
-Hardware
+## Hardware
 
 ¿Cuánto peso debe tener la prótesis en conjunto?
 La prótesis en conjunto debe tener alrededor de 600 g.
