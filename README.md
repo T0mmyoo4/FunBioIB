@@ -61,6 +61,8 @@ La figura 1 muestra los porcentajes de tiempo de forma global y para cada agarre
 ### Hitos:
 - H1: [Hito 1](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Hitos/Hito1.pdf)
 - H2: [Hito 2](https://github.com/T0mmyoo4/FunBioIB/blob/main/Documentaci%C3%B3n/Hitos/PRESENTACION%20HITO%202.pdf)
+###  Versiones, Mejoras y Pruebas
+- Mejoras y Pruebas: [ Versiones, Mejoras y Pruebas ](https://github.com/T0mmyoo4/FunBioIB/tree/main/Documentaci%C3%B3n/Versiones_Observaciones%20y%20Mejoras)
 
 #### Asimismo, dentro de las carpetas correspondientes a Hardaware, Software y Documentación se encuentra información más detallada en relación con el título de cada una de ellas.
 
