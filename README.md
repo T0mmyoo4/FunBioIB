@@ -10,7 +10,7 @@
 * GAMARRA LEYVA ALEJANDRA IVONNE - Coordinadora de investigación y bocetos
 
 ## Prótesis de Pulgar a bajo costo para amputaciones transmetacarpianas
-## Nombre de la Prótesis: KarpoFlex
+## Nombre de la Prótesis: Karpo
 
 ### ENSAYOS  :
 - Ensayos: [ Versiones, Mejoras y Pruebas ](https://github.com/T0mmyoo4/FunBioIB/tree/main/Documentaci%C3%B3n/Versiones_Observaciones%20y%20Mejoras)
