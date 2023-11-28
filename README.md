@@ -2,11 +2,11 @@
 ## Integrantes - Roles
 ![FotoGrupal](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/FotoGrupal2.jpeg)
 #### Izquierda a derecha
-* ARANGO ESCALANTE NICOLAS THOMAS - Coordinador de electrónica, manejo del GitHub
-*  ABANTO TRUJILLO ADRIANA TAYLI - Coordinadora de programación, manejo del GitHub
-* GORBEÑA GALARZA RODRIGO JOAQUIN - Coordinador de impresión 3D
-* PALMA ARAUJO GLORIA CECILIA - Coordinadora general y planos 
 * TELLO OCAÑA MIGUEL ANGEL - Coordinador de modelado 3D
+* ABANTO TRUJILLO ADRIANA TAYLI - Coordinadora de programación, manejo del GitHub
+* ARANGO ESCALANTE NICOLAS THOMAS - Coordinador de electrónica, manejo del GitHub
+* PALMA ARAUJO GLORIA CECILIA - Coordinadora general y planos 
+* GORBEÑA GALARZA RODRIGO JOAQUIN - Coordinador de impresión 3D
 * GAMARRA LEYVA ALEJANDRA IVONNE - Coordinadora de investigación y bocetos
 
 ## Prótesis de Pulgar a bajo costo para amputaciones transmetacarpianas
