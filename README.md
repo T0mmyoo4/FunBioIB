@@ -17,9 +17,7 @@
   
 ### Dentro del caso clinico estudiado decidimos enfocarnos en la amputación transmetacarpiana del pulgar, en específico por la necesidad del usuario de recuperar su EMPLEO, lo cual también implica su propia sustentabilidad.
 
-### Caso Clínico:
 
-### El paciente es un técnico electricista reparador de torres de alta tensión. Sufrió quemaduras de 3° grado en MMSS derecho (mano) y quemadura de 4° grado en MMII derecho, debido al alto riesgo de infección y complicaciones presentó amputación transmetacarpiana y desarticulación interfalángica proximal del dedo medio, por otro lado, presentó amputación transtibial en MMII, adicionalmente presentó trastorno sensorial táctil actualmente se encuentra desempleado y busca inserción laboral adaptada. 
 
 ## En contexto
 
