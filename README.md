@@ -13,7 +13,7 @@
 ## Nombre de la Prótesis: KarpoFlex
 
 ### ENSAYOS  :
-- Ensayos y mejoras: [ Versiones, Mejoras y Pruebas ](https://github.com/T0mmyoo4/FunBioIB/tree/main/Documentaci%C3%B3n/Versiones_Observaciones%20y%20Mejoras)
+- Ensayos: [ Versiones, Mejoras y Pruebas ](https://github.com/T0mmyoo4/FunBioIB/tree/main/Documentaci%C3%B3n/Versiones_Observaciones%20y%20Mejoras)
   
 ### Dentro del caso clinico estudiado decidimos enfocarnos en la amputación transmetacarpiana del pulgar, en específico por la necesidad del usuario de recuperar su EMPLEO, lo cual también implica su propia sustentabilidad.
 
