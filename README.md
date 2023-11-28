@@ -1,6 +1,6 @@
 # Fundamentos de Biodiseño - Biomecánica
 ## Integrantes - Roles
-![FotoGrupal](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/FotoGrupal.jpeg)
+![FotoGrupal](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/FotoGrupal2.jpeg)
 #### Izquierda a derecha
 * ARANGO ESCALANTE NICOLAS THOMAS - Coordinador de electrónica, manejo del GitHub
 *  ABANTO TRUJILLO ADRIANA TAYLI - Coordinadora de programación, manejo del GitHub
