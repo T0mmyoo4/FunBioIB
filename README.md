@@ -1,13 +1,13 @@
 # Fundamentos de Biodiseño - Biomecánica
 ## Integrantes - Roles
 ![FotoGrupal](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/FotoGrupal2.jpeg)
-#### Izquierda a derecha
-* TELLO OCAÑA MIGUEL ANGEL - Coordinador de modelado 3D
-* ABANTO TRUJILLO ADRIANA TAYLI - Coordinadora de programación, manejo del GitHub
-* ARANGO ESCALANTE NICOLAS THOMAS - Coordinador de electrónica, manejo del GitHub
-* PALMA ARAUJO GLORIA CECILIA - Coordinadora general y planos 
-* GORBEÑA GALARZA RODRIGO JOAQUIN - Coordinador de impresión 3D
-* GAMARRA LEYVA ALEJANDRA IVONNE - Coordinadora de investigación y bocetos
+#### Izquierda a derecha - (correo para contacto)
+* TELLO OCAÑA MIGUEL ANGEL (a20221892@pucp.edu.pe) - Coordinador de modelado 3D
+* ABANTO TRUJILLO ADRIANA TAYLI (a20223450@pucp.edu.pe) - Coordinadora de programación 
+* ARANGO ESCALANTE NICOLAS THOMAS (nicolas.arango@pucp.edu.pe) - Coordinador de electrónica
+* PALMA ARAUJO GLORIA CECILIA (a20220212@pucp.edu.pe) - Coordinadora general y planos 
+* GORBEÑA GALARZA RODRIGO JOAQUIN (rodrigo.gorbena@upch.pe) - Coordinador de impresión 3D
+* GAMARRA LEYVA ALEJANDRA IVONNE (a20223089@pucp.edu.pe) - Coordinadora de investigación y bocetos
 
 ## Prótesis de Pulgar a bajo costo para amputaciones transmetacarpianas
 ## Nombre de la Prótesis: Karpo
