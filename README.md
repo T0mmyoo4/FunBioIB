@@ -2,7 +2,7 @@
 ## Integrantes - Roles
 ![FotoGrupal](https://github.com/T0mmyoo4/FunBioIB/blob/main/Imagenes/FotoGrupal2.jpeg)
 #### Izquierda a derecha - (correo para contacto)
-* TELLO OCAÑA MIGUEL ANGEL (a20221892@pucp.edu.pe) - Coordinador de modelado 3D
+* TELLO OCAÑA MIGUEL ANGEL - Coordinador de modelado 3D - a20221892@pucp.edu.pe
 * ABANTO TRUJILLO ADRIANA TAYLI (a20223450@pucp.edu.pe) - Coordinadora de programación 
 * ARANGO ESCALANTE NICOLAS THOMAS (nicolas.arango@pucp.edu.pe) - Coordinador de electrónica
 * PALMA ARAUJO GLORIA CECILIA (a20220212@pucp.edu.pe) - Coordinadora general y planos 
